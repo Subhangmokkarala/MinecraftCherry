@@ -1,223 +1,55 @@
-[15:12:45] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:12:47] [ServerMain/INFO]: Loaded 7 recipes
-[15:12:47] [ServerMain/INFO]: Loaded 1271 advancements
-[15:12:48] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[15:12:48] [Server thread/INFO]: Loading properties
-[15:12:48] [Server thread/INFO]: Default game type: SURVIVAL
-[15:12:48] [Server thread/INFO]: Generating keypair
-[15:12:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:12:48] [Server thread/INFO]: Using epoll channel type
-[15:12:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:12:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:12:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:12:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:12:48] [Server thread/INFO]: Preparing level "world"
-[15:12:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:13:05] [Server thread/INFO]: Time elapsed: 8549 ms
-[15:13:05] [Server thread/INFO]: Done (16.431s)! For help, type "help"
-[15:13:32] [Server thread/INFO]: Yamto[/49.43.217.13:63284] logged in with entity id 248 at (-26.638682042620214, 108.0, -21.279148886999536)
-[15:13:32] [Server thread/INFO]: Yamto joined the game
-[15:14:06] [Server thread/INFO]: Fitzingout[/49.37.131.98:59107] logged in with entity id 335 at (29.30000001192093, 119.0, 15.75946016545847)
-[15:14:06] [Server thread/INFO]: Fitzingout joined the game
-[15:14:29] [Server thread/INFO]: luffyyy111[/49.205.99.31:42390] logged in with entity id 441 at (-8.9906612542881, 122.0, -36.587585783919955)
-[15:14:29] [Server thread/INFO]: luffyyy111 joined the game
-[15:15:09] [Server thread/INFO]: [Not Secure] <Fitzingout> put a damn door here
-[15:15:56] [Server thread/INFO]: Yamto has made the advancement [Acquire Hardware]
-[15:16:55] [Server thread/INFO]: [Not Secure] <Yamto> bro how much can this server handle
-[15:17:11] [Server thread/INFO]: [Not Secure] <luffyyy111> food
-[15:17:42] [Server thread/INFO]: [Not Secure] <Fitzingout> server config is 2.7ghz intel 4cpu and 4gb ram 120gb nvme
-[15:17:58] [Server thread/INFO]: [Not Secure] <Fitzingout> i think 5-10 players without lag
-[15:18:13] [Server thread/INFO]: [Not Secure] <Yamto> i mean entity load
-[15:18:20] [Server thread/INFO]: [Not Secure] <Yamto> to build farms
-[15:18:22] [Server thread/INFO]: [Not Secure] <Fitzingout> that i dont know bro
-[15:18:55] [Server thread/INFO]: [Not Secure] <Fitzingout> it can handle like old server but much more powerful
-[15:19:55] [Server thread/INFO]: [Not Secure] <Fitzingout> u have bed bro ?
-[15:22:59] [Server thread/INFO]: Yamto lost connection: Disconnected
-[15:22:59] [Server thread/INFO]: Yamto left the game
-[15:24:25] [Server thread/INFO]: Yamto[/49.43.217.13:64218] logged in with entity id 2199 at (4.5541612753950105, 119.0, -43.30000001192093)
-[15:24:25] [Server thread/INFO]: Yamto joined the game
-[15:24:42] [Server thread/INFO]: Yamto has made the advancement [Isn't It Iron Pick]
-[15:24:50] [Server thread/INFO]: Yamto has made the advancement [Suit Up]
-[15:26:19] [Server thread/INFO]: [Not Secure] <Fitzingout> man do u have stone ?
-[15:26:22] [Server thread/INFO]: Yamto lost connection: Disconnected
-[15:26:22] [Server thread/INFO]: Yamto left the game
-[15:26:26] [Server thread/INFO]: [Not Secure] <luffyyy111> i have
-[15:26:34] [Server thread/INFO]: [Not Secure] <Fitzingout> give me
-[15:26:38] [Server thread/INFO]: [Not Secure] <luffyyy111> 5 stacks of stone
-[15:27:24] [Server thread/INFO]: Yamto[/49.43.217.13:32433] logged in with entity id 2831 at (9.434064539901065, 139.0, 54.1608896429669)
-[15:27:24] [Server thread/INFO]: Yamto joined the game
-[15:29:42] [Server thread/INFO]: [Not Secure] <luffyyy111> what's the use of rabbit hide
-[15:29:49] [Server thread/INFO]: [Not Secure] <Fitzingout> u can make leather
-[15:29:59] [Server thread/INFO]: [Not Secure] <Yamto> by vombining them
-[15:30:12] [Server thread/INFO]: [Not Secure] <Yamto> combining.*
-[15:31:13] [Server thread/INFO]: Yamto has made the advancement [Not Today, Thank You]
-[15:31:43] [Server thread/INFO]: Yamto has made the advancement [Monster Hunter]
-[15:35:39] [Server thread/INFO]: [Not Secure] <Fitzingout> what r u guys doing
-[15:36:47] [Server thread/INFO]: [Not Secure] <Yamto> i need food
-[15:37:01] [Server thread/INFO]: [Not Secure] <Fitzingout> all suplies finished bro sadly
-[15:38:09] [Server thread/INFO]: Yamto has made the advancement [A Seedy Place]
-[15:38:12] [Server thread/INFO]: [Not Secure] <Fitzingout> man can i take copper ?
-[15:38:13] [Server thread/INFO]: luffyyy111 has made the advancement [Suit Up]
-[15:38:23] [Server thread/INFO]: [Not Secure] <luffyyy111> yeah u can
-[15:39:01] [Server thread/INFO]: [Not Secure] <Fitzingout> iron done
-[15:39:07] [Server thread/INFO]: [Not Secure] <Fitzingout> take it out
-[15:40:01] [Server thread/INFO]: Fitzingout has made the advancement [A Seedy Place]
-[15:40:24] [Server thread/INFO]: luffyyy111 has made the advancement [A Seedy Place]
-[15:41:13] [Server thread/INFO]: [Not Secure] <luffyyy111> creepers are coming
-[15:41:44] [Server thread/INFO]: [Not Secure] <Fitzingout> got some iron cuz ofcreeper
-[15:42:02] [Server thread/INFO]: [Not Secure] <Fitzingout> lmao we need a lot of dirt
-[15:42:10] [Server thread/INFO]: [Not Secure] <luffyyy111> i have
-[15:42:13] [Server thread/INFO]: Yamto went up in flames
-[15:43:59] [Server thread/INFO]: [Not Secure] <Yamto> bro we need some live stocks
-[15:44:13] [Server thread/INFO]: [Not Secure] <Fitzingout> yeah we need to make a barn first
-[15:44:17] [Server thread/INFO]: [Not Secure] <Yamto> can you make some fences
-[15:44:30] [Server thread/INFO]: [Not Secure] <Yamto> ill lure them
-[15:44:45] [Server thread/INFO]: [Not Secure] <Yamto> you prepare the fence
-[15:44:54] [Server thread/INFO]: [Not Secure] <luffyyy111> i prepared
-[15:45:02] [Server thread/INFO]: luffyyy111 hit the ground too hard
-[15:45:04] [Server thread/WARN]: luffyyy111 moved too quickly! 4.134926155389387,1.0,67.99103300403668
-[15:45:06] [Server thread/INFO]: [Not Secure] <Yamto> bro this place is filled with creepers
-[15:45:38] [Server thread/INFO]: [Not Secure] <Fitzingout> where r u yamto
-[15:46:06] [Server thread/INFO]: [Not Secure] <luffyyy111> ineed 2 iron
-[15:46:06] [Server thread/INFO]: [Not Secure] <Yamto> bringing life stocks
-[15:46:54] [Server thread/INFO]: [Not Secure] <Fitzingout> i have carrot to lure pigs
-[15:47:06] [Server thread/INFO]: [Not Secure] <Yamto> i got 4 sheeps
-[15:47:15] [Server thread/INFO]: [Not Secure] <Fitzingout> u asked
-[15:47:27] [Server thread/INFO]: [Not Secure] <Fitzingout> why you dont need ?
-[15:47:34] [Server thread/INFO]: [Not Secure] <luffyyy111> done
-[15:47:53] [Server thread/INFO]: [Not Secure] <Fitzingout> yamto here take carrot
-[15:47:54] [Server thread/INFO]: [Not Secure] <luffyyy111> i have changed my skin have u seen ?
-[15:47:59] [Server thread/INFO]: [Not Secure] <Fitzingout> no
-[15:49:04] [Server thread/INFO]: [Not Secure] <Fitzingout> check bro now u have carrot
-[15:52:21] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=-19, y=144, z=46} gw{x=9, y=124, z=31}
-[15:53:20] [Server thread/INFO]: [Not Secure] <Fitzingout> man shall we stop for today
-[15:53:26] [Server thread/INFO]: [Not Secure] <luffyyy111> no
-[15:53:32] [Server thread/INFO]: [Not Secure] <Yamto> wait for 5 minutes
-[15:53:42] [Server thread/INFO]: [Not Secure] <Fitzingout> okay i will wait for 5 mins
-[15:53:50] [Server thread/INFO]: [Not Secure] <luffyyy111> okay
-[15:54:41] [Server thread/INFO]: [Not Secure] <luffyyy111> inedd wood
-[15:57:01] [Server thread/INFO]: [Not Secure] <Fitzingout> shall i stop man
-[15:57:05] [Server thread/INFO]: [Not Secure] <luffyyy111> wait
-[15:57:25] [Server thread/INFO]: [Not Secure] <Fitzingout> man i need to upload to git or world gets lost
-[15:57:36] [Server thread/INFO]: [Not Secure] <luffyyy111> 2min
-[15:57:49] [Server thread/INFO]: [Not Secure] <Yamto> dont kille these yet
-[15:57:56] [Server thread/INFO]: [Not Secure] <Fitzingout> okay we wont
-[15:57:58] [Server thread/INFO]: [Not Secure] <Yamto> we need to breed them
-[15:58:08] [Server thread/INFO]: Yamto lost connection: Disconnected
-[15:58:08] [Server thread/INFO]: Yamto left the game
-[15:58:15] [Server thread/INFO]: [Not Secure] <Fitzingout> done ah ?
-[15:58:30] [Server thread/INFO]: [Not Secure] <Fitzingout> tmrw adadam le ra
-[15:59:05] [Server thread/INFO]: [Not Secure] <Fitzingout> man byee
-[15:59:41] [Server thread/INFO]: [Not Secure] <Fitzingout> rey
-[15:59:46] [Server thread/INFO]: [Not Secure] <luffyyy111> okay bye
-[15:59:56] [Server thread/INFO]: Fitzingout lost connection: Disconnected
-[15:59:56] [Server thread/INFO]: Fitzingout left the game
-[16:00:03] [Server thread/INFO]: /advancement (grant|revoke)
-[16:00:03] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[16:00:03] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[16:00:03] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[16:00:03] [Server thread/INFO]: /clear [<targets>]
-[16:00:03] [Server thread/INFO]: /clone (<begin>|from)
-[16:00:03] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[16:00:03] [Server thread/INFO]: /data (merge|get|remove|modify)
-[16:00:03] [Server thread/INFO]: /datapack (enable|disable|list)
-[16:00:03] [Server thread/INFO]: /debug (start|stop|function)
-[16:00:03] [Server thread/INFO]: /defaultgamemode <gamemode>
-[16:00:03] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[16:00:03] [Server thread/INFO]: /effect (clear|give)
-[16:00:03] [Server thread/INFO]: /me <action>
-[16:00:03] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[16:00:03] [Server thread/INFO]: /experience (add|set|query)
-[16:00:03] [Server thread/INFO]: /xp -> experience
-[16:00:03] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[16:00:03] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[16:00:03] [Server thread/INFO]: /forceload (add|remove|query)
-[16:00:03] [Server thread/INFO]: /function <name> [<arguments>|with]
-[16:00:03] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[16:00:03] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[16:00:03] [Server thread/INFO]: /give <targets> <item> [<count>]
-[16:00:03] [Server thread/INFO]: /help [<command>]
-[16:00:03] [Server thread/INFO]: /item (replace|modify)
-[16:00:03] [Server thread/INFO]: /kick <targets> [<reason>]
-[16:00:03] [Server thread/INFO]: /kill [<targets>]
-[16:00:03] [Server thread/INFO]: /list [uuids]
-[16:00:03] [Server thread/INFO]: /locate (structure|biome|poi)
-[16:00:03] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[16:00:03] [Server thread/INFO]: /msg <targets> <message>
-[16:00:03] [Server thread/INFO]: /tell -> msg
-[16:00:03] [Server thread/INFO]: /w -> msg
-[16:00:03] [Server thread/INFO]: /particle <name> [<pos>]
-[16:00:03] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[16:00:03] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[16:00:03] [Server thread/INFO]: /random (value|roll|reset)
-[16:00:03] [Server thread/INFO]: /reload
-[16:00:03] [Server thread/INFO]: /recipe (give|take)
-[16:00:03] [Server thread/INFO]: /return <value>
-[16:00:03] [Server thread/INFO]: /ride <target> (mount|dismount)
-[16:00:03] [Server thread/INFO]: /say <message>
-[16:00:03] [Server thread/INFO]: /schedule (function|clear)
-[16:00:03] [Server thread/INFO]: /scoreboard (objectives|players)
-[16:00:03] [Server thread/INFO]: /seed
-[16:00:03] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[16:00:03] [Server thread/INFO]: /spawnpoint [<targets>]
-[16:00:03] [Server thread/INFO]: /setworldspawn [<pos>]
-[16:00:03] [Server thread/INFO]: /spectate [<target>]
-[16:00:03] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[16:00:03] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[16:00:03] [Server thread/INFO]: /summon <entity> [<pos>]
-[16:00:03] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[16:00:03] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[16:00:03] [Server thread/INFO]: /teammsg <message>
-[16:00:03] [Server thread/INFO]: /tm -> teammsg
-[16:00:03] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[16:00:03] [Server thread/INFO]: /tp -> teleport
-[16:00:03] [Server thread/INFO]: /tellraw <targets> <message>
-[16:00:03] [Server thread/INFO]: /time (set|add|query)
-[16:00:03] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[16:00:03] [Server thread/INFO]: /trigger <objective> [add|set]
-[16:00:03] [Server thread/INFO]: /weather (clear|rain|thunder)
-[16:00:03] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[16:00:03] [Server thread/INFO]: /jfr (start|stop)
-[16:00:03] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[16:00:03] [Server thread/INFO]: /banlist [ips|players]
-[16:00:03] [Server thread/INFO]: /ban <targets> [<reason>]
-[16:00:03] [Server thread/INFO]: /deop <targets>
-[16:00:03] [Server thread/INFO]: /op <targets>
-[16:00:03] [Server thread/INFO]: /pardon <targets>
-[16:00:03] [Server thread/INFO]: /pardon-ip <target>
-[16:00:03] [Server thread/INFO]: /perf (start|stop)
-[16:00:03] [Server thread/INFO]: /save-all [flush]
-[16:00:03] [Server thread/INFO]: /save-off
-[16:00:03] [Server thread/INFO]: /save-on
-[16:00:03] [Server thread/INFO]: /setidletimeout <minutes>
-[16:00:03] [Server thread/INFO]: /stop
-[16:00:03] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[16:00:09] [Server thread/INFO]: luffyyy111 lost connection: Disconnected
-[16:00:09] [Server thread/INFO]: luffyyy111 left the game
-[16:00:10] [Server thread/INFO]: Stopping the server
-[16:00:10] [Server thread/INFO]: Stopping server
-[16:00:10] [Server thread/INFO]: Saving players
-[16:00:10] [Server thread/INFO]: Saving worlds
-[16:00:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:00:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:00:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:00:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:00:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:00:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:00:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:29:46] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:29:48] [ServerMain/INFO]: Loaded 7 recipes
+[15:29:48] [ServerMain/INFO]: Loaded 1271 advancements
+[15:29:48] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[15:29:48] [Server thread/INFO]: Loading properties
+[15:29:48] [Server thread/INFO]: Default game type: SURVIVAL
+[15:29:48] [Server thread/INFO]: Generating keypair
+[15:29:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:29:49] [Server thread/INFO]: Using epoll channel type
+[15:29:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:29:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:29:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:29:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:29:49] [Server thread/INFO]: Preparing level "world"
+[15:29:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:30:07] [Worker-Main-1/INFO]: Preparing spawn area: 5%
+[15:30:08] [Server thread/INFO]: Time elapsed: 9270 ms
+[15:30:08] [Server thread/INFO]: Done (19.355s)! For help, type "help"
+[15:30:21] [Server thread/INFO]: Yamto[/49.43.218.254:53504] logged in with entity id 239 at (-7.0091950406004155, 122.0, -60.64502196216411)
+[15:30:21] [Server thread/INFO]: Yamto joined the game
+[15:31:29] [Server thread/INFO]: Yamto has made the advancement [The Parrots and the Bats]
+[15:36:30] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:293) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:308) ~[?:?]
+	at java.io.BufferedInputStream.implRead(BufferedInputStream.java:382) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:361) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376) ~[?:?]
+	at sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:189) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.implReadLine(BufferedReader.java:371) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:348) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:437) ~[?:?]
+	at ajn$1.run(SourceFile:89) ~[server-1.20.2.jar:?]
