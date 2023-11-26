@@ -839,6 +839,7 @@
       "cooked_rabbit": "2023-11-24 09:58:00 +0000",
       "rotten_flesh": "2023-10-19 15:43:56 +0000",
       "cooked_mutton": "2023-11-24 09:10:53 +0000",
+      "potato": "2023-11-26 09:58:05 +0000",
       "baked_potato": "2023-11-24 11:04:43 +0000",
       "carrot": "2023-11-24 11:09:42 +0000"
     },
@@ -1415,6 +1416,31 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2023-11-24 10:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2023-11-26 09:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-11-26 09:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2023-11-26 09:57:08 +0000",
+      "minecraft:sheep": "2023-11-26 09:57:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2023-11-26 09:57:08 +0000"
     },
     "done": true
   },
